@@ -3,6 +3,7 @@
 .env
 .netlify
 .redwood/*
+.venv
 !.redwood/README.md
 dev.db*
 dist
